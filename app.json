@@ -1,0 +1,19 @@
+{
+  "name": "Slack Hubot",
+  "description": "A SlackHQ - Hubot config ready to deploy",
+  "keywords": [
+    "Slack",
+    "hubot",
+    "SlackHQ"
+  ],
+  "addons": [
+    "rediscloud:25"
+  ],
+  "env": {
+    "HUBOT_SLACK_TOKEN": {
+      "description": "Slack API token",
+      "value": ""
+    }
+  },
+  "logo": "https://slack.global.ssl.fastly.net/26397/plugins/hubot/assets/service_128.png"
+}
