@@ -13,4 +13,4 @@ This README is intended to help get you started. Definitely update and improve t
 [SlackHQ]: https://slack.com/r/0256nwmv-026c8r0s (affiliate link)
 [generator-hubot]: https://github.com/github/generator-hubot
 
-[![Dependency Status](https://www.versioneye.com/user/projects/54d3eff63ca08473b4000378#tab-licenses/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54d3eff63ca08473b4000378#tab-licenses)
+[![Dependency Status](https://www.versioneye.com/user/projects/54d3eff63ca08473b4000378/badge.svg?style=flat)](https://www.versioneye.com/user/projects/54d3eff63ca08473b4000378)
