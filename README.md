@@ -8,4 +8,5 @@ This README is intended to help get you started. Definitely update and improve t
 
 [heroku]: http://www.heroku.com
 [hubot]: http://hubot.github.com
+[SlackHQ]: https://slack.com/r/0256nwmv-026c8r0s (affiliate link)
 [generator-hubot]: https://github.com/github/generator-hubot
