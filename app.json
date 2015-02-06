@@ -15,8 +15,5 @@
       "value": ""
     }
   },
-  "scripts": {
-    "postdeploy": "heroku config:set HEROKU_URL=$(heroku info -s | grep web_url | cut -d= -f2)"
-  },
   "logo": "https://slack.global.ssl.fastly.net/26397/plugins/hubot/assets/service_128.png"
 }
