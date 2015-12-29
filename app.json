@@ -7,7 +7,7 @@
     "SlackHQ"
   ],
   "addons": [
-    "rediscloud:25"
+    "rediscloud:30"
   ],
   "env": {
     "HUBOT_SLACK_TOKEN": {
